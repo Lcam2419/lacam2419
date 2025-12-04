@@ -1,26 +1,11 @@
 # 👋 Olá! Eu sou o Lucas
 
-### 🖥️ Desenvolvedor Back-End Iniciante  
-Atualmente estudando **Análise e Desenvolvimento de Sistemas** e iniciando minha trajetória na área de Back-End.  
-Desenvolvo pequenos sistemas e APIs usando conceitos fundamentais de lógica, armazenamento de dados e construção de aplicações reais.
+### 🎨 Desenvolvedor Front-End Iniciante  
+Estudante de **Análise e Desenvolvimento de Sistemas**, iniciando minha trajetória no desenvolvimento web.  
+Atualmente focado em aprender **HTML, CSS e JavaScript**, criando projetos práticos e evoluindo minhas habilidades em interface e usabilidade.
 
-Busco minha primeira oportunidade como desenvolvedor e estou em constante evolução prática.
----
-<div style="display: inline_block"><br>
+Busco minha primeira oportunidade como desenvolvedor front-end.
 
-  <!-- Lógica -->
-  <img align="center" alt="logica" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <!-- Python -->
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <!-- JavaScript -->
-  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <!-- GitHub -->
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  
-</div>
 ---
 
 ## 🌐 Minhas Redes
@@ -30,28 +15,43 @@ Busco minha primeira oportunidade como desenvolvedor e estou em constante evolu�
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassilvacmp@gmail.com)
 
 ---
+
 ## ⚙️ Tecnologias que estou aprendendo
 
-- 🧠 **Lógica de Programação**  
-- ⚙️ **Python**  
-- 🔙 **Node.js (JavaScript no Back-End)**  
-- 🔧 **Git & GitHub**  
-- 🛠️ **VS Code**
+<div style="display: flex; gap: 10px;">
+  
+<img alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS3" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="VSCode" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+</div>
 
 ---
 
-## 📁 Projetos Back-End
+## 📁 Projetos Front-End
 
 ### 🔹 **1. Sistema de Restaurante (Python)**
-Sistema que simula um restaurante, permitindo selecionar pratos, bebidas, sobremesas e calcular o valor total do pedido.  
-Inclui lógica de menu, validação de entrada e cálculo final.  
-👉 *Repositório:* `https://colab.research.google.com/drive/1739cmBII3GhPw5BXo1mfCAo49Fonq_wk?usp=sharing`
+Projeto que simula um sistema simples de restaurante, com menus e cálculos de pedidos.  
+👉 *Repositório:* (adicione seu link do GitHub)
+
+---
+
+## 📊 GitHub Stats
+
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+> 🔧 *Troque "SEU-USUARIO" pelo seu usuário real do GitHub.*
 
 ---
 
 ## 🎓 Formação
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Cursando  
-- 🧩 Conhecimento em Python, C++, Excel e Word  
+- **Análise e Desenvolvimento de Sistemas** — Cursando  
+- Conhecimento em Python, C++, Excel e Word  
 
 ---
+
 

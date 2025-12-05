@@ -55,7 +55,6 @@ Inclui lógica de menu, validação e fluxo completo de atendimento.
 
 ## 🎓 Formação  
 - 📚 **Análise e Desenvolvimento de Sistemas** — Cursando  
-- 💡 Conhecimentos em: Python, C++ e HTML.
 
 ---
 

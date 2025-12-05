@@ -39,20 +39,6 @@ Inclui lógica de menu, validação e fluxo completo de atendimento.
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-> ⚠️ **Importante:** Troque `SEU-USUARIO` pelo seu usuário do GitHub.
-
----
-
 ## 🎓 Formação  
 - 📚 **Análise e Desenvolvimento de Sistemas** — Cursando  
 
